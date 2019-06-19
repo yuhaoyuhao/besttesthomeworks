@@ -12,7 +12,6 @@ import static com.sun.tools.internal.xjc.reader.Ring.add;
  */
 public class casethree {
     public static void main(String[] args) {
-
         Map<String, Object> stu = new HashMap<String, Object>();
         stu.put("0001", User_one.User());
         stu.put("0002", User_two.User());

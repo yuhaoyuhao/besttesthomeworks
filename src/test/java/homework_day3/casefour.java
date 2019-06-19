@@ -10,6 +10,7 @@ import static javafx.scene.input.KeyCode.M;
 public class casefour {
     public static void main(String[] args) {
 
+
         Map<String, Object> stu = new HashMap<String, Object>();
         stu.put("0001", User_one.User());
         stu.put("0002", User_two.User());

@@ -13,7 +13,6 @@ import static com.sun.org.apache.xalan.internal.xsltc.compiler.util.Type.Int;
  */
 public class StringCount {
     public static void Stcount(){
-
         Scanner scanner=new Scanner(System.in);
         String st=scanner.next();
         //System.out.println(st);

@@ -14,7 +14,6 @@ import static homework_day3.User_one.User;
  */
 public class casetwo {
     public static void main(String[] args) {
-
         Map<String,Object> stu=new HashMap<String, Object>();
         stu.put("0001", homework_day3.User_one.User());
         stu.put("0002", homework_day3.User_two.User());
